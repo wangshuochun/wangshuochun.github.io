@@ -12,5 +12,5 @@ I'm a third year undergraduate student from [Guangzhou University]([https://eecs
 
 You can find my CV here: [Wangshuochun's Curriculum Vitae](../assets/xxx.pdf).
 
-[Email](32219700003@gzhu.edu.cn) / [Github]([https://github.com/QiuDi233](https://github.com/wangshuochun)) / [Wechat](../images/wechat.jpg) 
+[Email](32219700003@gzhu.edu.cn) / [Github]([https://github.com/wangshuochun])
 
