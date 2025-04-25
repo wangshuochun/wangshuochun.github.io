@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Wangshuohcun"
-  pronouns         :  "she" # example: "she/her"  
+  pronouns         :   # example: "she/her"  
   bio              : "moving bricks"
   location         : "Earth"
   employer         : "Guangzhou University"
